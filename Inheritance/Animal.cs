@@ -8,7 +8,7 @@ namespace Inheritance
         }
 
         public int legs { get; set; }
-        public string Name { get; set; }
+        public string Type { get; set; }
         public int age { get; set; }
         public int Weight { get; set; }
     }
